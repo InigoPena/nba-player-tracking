@@ -1,1 +1,5 @@
 /cvenv
+/videos
+yolo/*.cfg
+yolo/*.weights
+*__pycache__/
