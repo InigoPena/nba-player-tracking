@@ -1,5 +1,5 @@
 /cvenv
-/videos
+/dev_*
 yolo/*.cfg
 yolo/*.weights
 *__pycache__/
